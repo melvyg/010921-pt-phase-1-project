@@ -1,4 +1,4 @@
-# Title
+# A Movie Success Story - An In-Depth Analysis on Successful Movies by Budgets & Genres
 
 **Authors**: Melvin Garcia
 
