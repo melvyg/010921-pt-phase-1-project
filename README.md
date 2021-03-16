@@ -65,7 +65,7 @@ In the visual above, five genres were selected that were common within the top 5
 
 ### Visual 7
 ![graph14](./images/GenreAvgRatingComparison.jpg)
-Similar to visual 7, in the chart above, a similar bootstrap sampling method was employed between the top 5 genres to provide a comparison on average rating. The top 2 genres with the highest ratings are Biography and Animation, with Music having the highest spread.
+Similar to visual 6, in the chart above, a similar bootstrap sampling method was employed between the top 5 genres to provide a comparison on average rating. The top 2 genres with the highest ratings are Biography and Animation, with Music having the highest spread.
 
 ## Conclusions
 
