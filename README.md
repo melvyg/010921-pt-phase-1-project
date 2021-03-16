@@ -1,6 +1,6 @@
 # A Movie Success Story - An In-Depth Analysis on Successful Movies by Budgets & Genres
 
-**Authors**: Melvin Garcia
+**Author**: Melvin Garcia
 
 ## Overview
 
@@ -88,9 +88,9 @@ For any additional questions, please contact **Melvin Garcia garciamelvin4@gmail
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── 0-Microsoft-Movie-Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── MicrosoftMovieAnalysis_Flatiron_Presentation_MG.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── 0-Microsoft-Movie-Analysis.ipynb  
+├── MicrosoftMovieAnalysis_Flatiron_Presentation_MG.pdf
+├── data
+└── images
 ```
